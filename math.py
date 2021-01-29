@@ -6,4 +6,4 @@ def multiply(x,y):
     if ()
     x*yz
 def divide(x,y):
-    pass
+    x/y
