@@ -3,6 +3,6 @@ def add(x,y):
 def subtract(x,y):
     x-y
 def multiply(x,y):
-    x*y
+    x*yz
 def divide(x,y):
     pass
